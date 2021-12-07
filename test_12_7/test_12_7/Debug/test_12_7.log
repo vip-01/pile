@@ -1,0 +1,25 @@
+﻿  test.c
+d:\test_1_存储\test_12_7\test_12_7\test.c(550): error C2143: 语法错误 : 缺少“]”(在“=”的前面)
+d:\test_1_存储\test_12_7\test_12_7\test.c(550): error C2075: “input”: 数组初始化需要大括号
+d:\test_1_存储\test_12_7\test_12_7\test.c(550): error C2143: 语法错误 : 缺少“;”(在“]”的前面)
+d:\test_1_存储\test_12_7\test_12_7\test.c(553): error C2059: 语法错误:“=”
+d:\test_1_存储\test_12_7\test_12_7\test.c(558): error C2143: 语法错误 : 缺少“)”(在“字符串”的前面)
+d:\test_1_存储\test_12_7\test_12_7\test.c(558): error C2143: 语法错误 : 缺少“{”(在“字符串”的前面)
+d:\test_1_存储\test_12_7\test_12_7\test.c(558): error C2059: 语法错误:“字符串”
+d:\test_1_存储\test_12_7\test_12_7\test.c(558): error C2059: 语法错误:“)”
+d:\test_1_存储\test_12_7\test_12_7\test.c(559): error C2143: 语法错误 : 缺少“)”(在“字符串”的前面)
+d:\test_1_存储\test_12_7\test_12_7\test.c(559): error C2143: 语法错误 : 缺少“{”(在“字符串”的前面)
+d:\test_1_存储\test_12_7\test_12_7\test.c(559): error C2059: 语法错误:“字符串”
+d:\test_1_存储\test_12_7\test_12_7\test.c(560): error C2143: 语法错误 : 缺少“)”(在“字符串”的前面)
+d:\test_1_存储\test_12_7\test_12_7\test.c(560): error C2143: 语法错误 : 缺少“{”(在“字符串”的前面)
+d:\test_1_存储\test_12_7\test_12_7\test.c(560): error C2059: 语法错误:“字符串”
+d:\test_1_存储\test_12_7\test_12_7\test.c(561): error C2143: 语法错误 : 缺少“)”(在“字符串”的前面)
+d:\test_1_存储\test_12_7\test_12_7\test.c(561): error C2143: 语法错误 : 缺少“{”(在“字符串”的前面)
+d:\test_1_存储\test_12_7\test_12_7\test.c(561): error C2059: 语法错误:“字符串”
+d:\test_1_存储\test_12_7\test_12_7\test.c(562): error C2143: 语法错误 : 缺少“)”(在“字符串”的前面)
+d:\test_1_存储\test_12_7\test_12_7\test.c(562): error C2143: 语法错误 : 缺少“{”(在“字符串”的前面)
+d:\test_1_存储\test_12_7\test_12_7\test.c(562): error C2059: 语法错误:“字符串”
+d:\test_1_存储\test_12_7\test_12_7\test.c(563): error C2143: 语法错误 : 缺少“)”(在“字符串”的前面)
+d:\test_1_存储\test_12_7\test_12_7\test.c(563): error C2143: 语法错误 : 缺少“{”(在“字符串”的前面)
+d:\test_1_存储\test_12_7\test_12_7\test.c(563): error C2059: 语法错误:“字符串”
+d:\test_1_存储\test_12_7\test_12_7\test.c(564): error C2059: 语法错误:“}”
