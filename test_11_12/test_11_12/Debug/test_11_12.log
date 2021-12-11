@@ -1,4 +1,0 @@
-﻿  test.c
-d:\test_1_存储\test_11_12\test_11_12\test.c(595): warning C4013: “printf”未定义；假设外部返回 int
-d:\test_1_存储\test_11_12\test_11_12\test.c(597): warning C4013: “scanf”未定义；假设外部返回 int
-  test_11_12.vcxproj -> D:\test_1_存储\test_11_12\Debug\test_11_12.exe
