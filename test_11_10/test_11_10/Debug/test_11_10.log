@@ -1,5 +1,0 @@
-﻿  test.c
-d:\test_1_存储\test_11_10\test_11_10\test.c(72): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
-d:\test_1_存储\test_11_10\test_11_10\test.c(73): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
-d:\test_1_存储\test_11_10\test_11_10\test.c(75): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
-  test_11_10.vcxproj -> D:\test_1_存储\test_11_10\Debug\test_11_10.exe
