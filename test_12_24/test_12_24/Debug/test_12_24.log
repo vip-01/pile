@@ -1,0 +1,30 @@
+﻿  test.c
+  test22.cpp
+d:\test_1_存储\test_12_24\test_12_24\test22.cpp(51): error C2679: 二进制“>>”: 没有找到接受“std::string”类型的右操作数的运算符(或没有可接受的转换)
+          d:\.c语言\vc\include\istream(485): 可能是“std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(std::basic_streambuf<char,std::char_traits<char>> *)”
+          d:\.c语言\vc\include\istream(466): 或       “std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(void *&)”
+          d:\.c语言\vc\include\istream(448): 或       “std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(long double &)”
+          d:\.c语言\vc\include\istream(430): 或       “std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(double &)”
+          d:\.c语言\vc\include\istream(411): 或       “std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(float &)”
+          d:\.c语言\vc\include\istream(392): 或       “std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(unsigned __int64 &)”
+          d:\.c语言\vc\include\istream(373): 或       “std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(__int64 &)”
+          d:\.c语言\vc\include\istream(353): 或       “std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(unsigned long &)”
+          d:\.c语言\vc\include\istream(335): 或       “std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(long &)”
+          d:\.c语言\vc\include\istream(317): 或       “std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(unsigned int &)”
+          d:\.c语言\vc\include\istream(291): 或       “std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(int &)”
+          d:\.c语言\vc\include\istream(272): 或       “std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(unsigned short &)”
+          d:\.c语言\vc\include\istream(237): 或       “std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(short &)”
+          d:\.c语言\vc\include\istream(218): 或       “std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(std::_Bool &)”
+          d:\.c语言\vc\include\istream(211): 或       “std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(std::ios_base &(__cdecl *)(std::ios_base &))”
+          d:\.c语言\vc\include\istream(204): 或       “std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(std::basic_ios<char,std::char_traits<char>> &(__cdecl *)(std::basic_ios<char,std::char_traits<char>> &))”
+          d:\.c语言\vc\include\istream(198): 或       “std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(std::basic_istream<char,std::char_traits<char>> &(__cdecl *)(std::basic_istream<char,std::char_traits<char>> &))”
+          d:\.c语言\vc\include\istream(1103): 或       “std::basic_istream<char,std::char_traits<char>> &std::operator >><char,std::char_traits<char>,std::string>(std::basic_istream<char,std::char_traits<char>> &&,_Ty &)”
+          with
+          [
+              _Ty=std::string
+          ]
+          d:\.c语言\vc\include\istream(1093): 或       “std::basic_istream<char,std::char_traits<char>> &std::operator >><std::char_traits<char>>(std::basic_istream<char,std::char_traits<char>> &,unsigned char &)”
+          d:\.c语言\vc\include\istream(1086): 或       “std::basic_istream<char,std::char_traits<char>> &std::operator >><std::char_traits<char>>(std::basic_istream<char,std::char_traits<char>> &,unsigned char *)”
+          d:\.c语言\vc\include\istream(1079): 或       “std::basic_istream<char,std::char_traits<char>> &std::operator >><std::char_traits<char>>(std::basic_istream<char,std::char_traits<char>> &,signed char &)”
+          d:\.c语言\vc\include\istream(1072): 或       “std::basic_istream<char,std::char_traits<char>> &std::operator >><std::char_traits<char>>(std::basic_istream<char,std::char_traits<char>> &,signed char *)”
+          尝试匹配参数列表“(std::istream, std::string)”时
