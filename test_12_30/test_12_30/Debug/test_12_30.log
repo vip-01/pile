@@ -1,0 +1,3 @@
+﻿  题目.cpp
+d:\test_1_存储\test_12_30\test_12_30\题目.cpp(105): warning C4715: “bfs”: 不是所有的控件路径都返回值
+  test_12_30.vcxproj -> D:\test_1_存储\test_12_30\Debug\test_12_30.exe
