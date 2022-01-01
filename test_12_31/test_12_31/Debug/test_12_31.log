@@ -1,0 +1,4 @@
+﻿  test.c
+  测试.cpp
+d:\test_1_存储\test_12_31\test_12_31\测试.cpp(50): warning C4715: “bfs”: 不是所有的控件路径都返回值
+  test_12_31.vcxproj -> D:\test_1_存储\test_12_31\Debug\test_12_31.exe
